@@ -1,0 +1,108 @@
+#custom-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#custom-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(248, 248, 248, 1);
+    border-width: 1px;
+    border-radius: 4px;
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(119, 119, 119, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(178, 227, 255, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#custom-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(85, 85, 85, 1);
+    background-color: rgba(178, 227, 255, 1);
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #b2e3ff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #b2e3ff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #b2e3ff;
+}
+#custom-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#custom-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #f8f8f8;
+}
+
+.hector-logo{
+    height: 125px;
+    width: 125px;
+}
+
+.navbar-nav.navbar-left{
+    margin: 30px;
+    padding: 0px;
+}
+
+.about-body{
+    margin-top: 150px;
+}
+
+
+.icon-col{
+    text-align: center;
+}
+
+.about-photo{
+    height: 400px;
+    width: 400px;
+    transform: rotate(90deg);
+}
+
+.photo-col{
+    text-align: center;
+}
+
+.icons{
+    color: black;
+}
+
+.contact-align h4,
+.contact-align a{
+    display: inline;
+    vertical-align: top;
+}
+
+.contact-align{
+    text-align: center;
+}
+
+.image-size{
+    width: 100% !important;
+    height: 500px;
+}
+
+.image-size:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.art-body,
+.games-body,
+.writing-body{
+    margin-top: 127px;
+}
+
+html, body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+h1{
+    text-align: center;
+}

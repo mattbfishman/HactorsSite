@@ -76,13 +76,26 @@
     vertical-align: top;
 }
 
-.contact-align{
+.contact-align h4{
+    margin-left: 150px;
+}
+
+.contact-body{
     text-align: center;
 }
 
 .image-size{
     width: 100% !important;
     height: 500px;
+}
+
+.movie{
+    text-align: center;
+    margin-top: -40px;
+}
+
+.color{
+    margin-top: -15px !important;
 }
 
 .image-size:hover{
@@ -92,8 +105,13 @@
 
 .art-body,
 .games-body,
-.writing-body{
+.writing-body,
+{
     margin-top: 127px;
+}
+
+.writing-panel{
+    margin-top: 150px;
 }
 
 html, body{
@@ -105,4 +123,24 @@ html, body{
 
 h1{
     text-align: center;
+}
+
+i{
+    margin-top: -5px;
+}
+
+.colorswatch{
+    margin-top: 120px !important;
+}
+
+.eatmeat{
+    margin-top: 120px !important;
+}
+
+.eatmeatvid{
+    margin-top: 50px !important;
+}
+.imagelogo{
+    height: 50%;
+    width: 100%;
 }
